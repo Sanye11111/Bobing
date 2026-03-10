@@ -271,7 +271,7 @@ public static class Bobing {
 }
 
 
-void main(String[] args) {
+void main() {
     Bobing.Prize prize = new Bobing.Prize();       //构建初始奖项数组
     Scanner sc = new Scanner(System.in);
     System.out.print("请输入玩家数量:");
